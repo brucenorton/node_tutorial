@@ -1,0 +1,22 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "node tutorial from hackernoon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brucenorton/node_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brucenorton/node_tutorial/issues"
+  },
+  "homepage": "https://github.com/brucenorton/node_tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
